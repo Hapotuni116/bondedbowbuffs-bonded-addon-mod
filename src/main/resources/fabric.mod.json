@@ -3,7 +3,7 @@
 	"id": "bondedbowbuffs",
 	"version": "${version}",
 	"name": "Bondedbowbuffs",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is an addon mod for the Bonded mod by iamkaf. It adds the functionality of the bonded mod to bows which otherwise didn't get any new functionality from the bonded mod.",
 	"authors": [
 		"Me!"
 	],
@@ -30,7 +30,7 @@
 		}
 	],
 	"depends": {
-		   "fabricloader": ">=0.16.14",
+		"fabricloader": ">=0.16.14",
 		"minecraft": "~1.21.8",
 		"java": ">=21",
 		"fabric-api": "*",
